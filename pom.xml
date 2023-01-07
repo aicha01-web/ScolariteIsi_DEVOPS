@@ -74,6 +74,9 @@
 				</configuration>
 			</plugin>
 		</plugins>
+
+		<finalName>SCOLARITE</finalName>
+
 	</build>
 
 </project>
