@@ -54,7 +54,7 @@
 						</exclude>
 					</excludes>
 					<image>
-						<name>aicha01-web/${project.artifactId}:${project.version}</name>
+						<name>aichasarr98/${project.artifactId}:${project.version}</name>
 					</image>
 					<docker>
 						<publishRegistry>
